@@ -1,4 +1,4 @@
 {
-  "build": "npm install",
-  "start": "node index.js"
+  "buildCommand": "npm install",
+  "startCommand": "node index.js"
 }
