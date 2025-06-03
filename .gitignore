@@ -1,0 +1,7 @@
+node_modules/
+.bun/
+*.log
+AppData/
+.vscode/
+.DS_Store
+
